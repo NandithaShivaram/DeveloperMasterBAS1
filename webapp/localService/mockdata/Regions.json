@@ -1,0 +1,121 @@
+[{
+	"RegionID": 1202,
+	"RegionDescription": "RegionDescription 1",
+	"__metadata": {
+		"uri": "Regions(1202)",
+		"type": "NorthwindModel.Region"
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Regions(1202)/Territories"
+		}
+	}
+}, {
+	"RegionID": 3970,
+	"RegionDescription": "RegionDescription 2",
+	"__metadata": {
+		"uri": "Regions(3970)",
+		"type": "NorthwindModel.Region"
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Regions(3970)/Territories"
+		}
+	}
+}, {
+	"RegionID": 1551,
+	"RegionDescription": "RegionDescription 3",
+	"__metadata": {
+		"uri": "Regions(1551)",
+		"type": "NorthwindModel.Region"
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Regions(1551)/Territories"
+		}
+	}
+}, {
+	"RegionID": 629,
+	"RegionDescription": "RegionDescription 4",
+	"__metadata": {
+		"uri": "Regions(629)",
+		"type": "NorthwindModel.Region"
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Regions(629)/Territories"
+		}
+	}
+}, {
+	"RegionID": 4828,
+	"RegionDescription": "RegionDescription 5",
+	"__metadata": {
+		"uri": "Regions(4828)",
+		"type": "NorthwindModel.Region"
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Regions(4828)/Territories"
+		}
+	}
+}, {
+	"RegionID": 4863,
+	"RegionDescription": "RegionDescription 6",
+	"__metadata": {
+		"uri": "Regions(4863)",
+		"type": "NorthwindModel.Region"
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Regions(4863)/Territories"
+		}
+	}
+}, {
+	"RegionID": 319,
+	"RegionDescription": "RegionDescription 7",
+	"__metadata": {
+		"uri": "Regions(319)",
+		"type": "NorthwindModel.Region"
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Regions(319)/Territories"
+		}
+	}
+}, {
+	"RegionID": 143,
+	"RegionDescription": "RegionDescription 8",
+	"__metadata": {
+		"uri": "Regions(143)",
+		"type": "NorthwindModel.Region"
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Regions(143)/Territories"
+		}
+	}
+}, {
+	"RegionID": 8138,
+	"RegionDescription": "RegionDescription 9",
+	"__metadata": {
+		"uri": "Regions(8138)",
+		"type": "NorthwindModel.Region"
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Regions(8138)/Territories"
+		}
+	}
+}, {
+	"RegionID": 6024,
+	"RegionDescription": "RegionDescription 10",
+	"__metadata": {
+		"uri": "Regions(6024)",
+		"type": "NorthwindModel.Region"
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Regions(6024)/Territories"
+		}
+	}
+}]

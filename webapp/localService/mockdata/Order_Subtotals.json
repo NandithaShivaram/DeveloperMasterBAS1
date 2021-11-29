@@ -1,0 +1,71 @@
+[{
+	"OrderID": 7152,
+	"Subtotal": 6865.01,
+	"__metadata": {
+		"uri": "Order_Subtotals(7152)",
+		"type": "NorthwindModel.Order_Subtotal"
+	}
+}, {
+	"OrderID": 8555,
+	"Subtotal": 5231.44,
+	"__metadata": {
+		"uri": "Order_Subtotals(8555)",
+		"type": "NorthwindModel.Order_Subtotal"
+	}
+}, {
+	"OrderID": 2583,
+	"Subtotal": 2979.3,
+	"__metadata": {
+		"uri": "Order_Subtotals(2583)",
+		"type": "NorthwindModel.Order_Subtotal"
+	}
+}, {
+	"OrderID": 4324,
+	"Subtotal": 5804.08,
+	"__metadata": {
+		"uri": "Order_Subtotals(4324)",
+		"type": "NorthwindModel.Order_Subtotal"
+	}
+}, {
+	"OrderID": 7151,
+	"Subtotal": 2769.95,
+	"__metadata": {
+		"uri": "Order_Subtotals(7151)",
+		"type": "NorthwindModel.Order_Subtotal"
+	}
+}, {
+	"OrderID": 5492,
+	"Subtotal": 5182.37,
+	"__metadata": {
+		"uri": "Order_Subtotals(5492)",
+		"type": "NorthwindModel.Order_Subtotal"
+	}
+}, {
+	"OrderID": 9874,
+	"Subtotal": 1069.17,
+	"__metadata": {
+		"uri": "Order_Subtotals(9874)",
+		"type": "NorthwindModel.Order_Subtotal"
+	}
+}, {
+	"OrderID": 9312,
+	"Subtotal": 8146.59,
+	"__metadata": {
+		"uri": "Order_Subtotals(9312)",
+		"type": "NorthwindModel.Order_Subtotal"
+	}
+}, {
+	"OrderID": 1660,
+	"Subtotal": 5230.6,
+	"__metadata": {
+		"uri": "Order_Subtotals(1660)",
+		"type": "NorthwindModel.Order_Subtotal"
+	}
+}, {
+	"OrderID": 1559,
+	"Subtotal": 1735.37,
+	"__metadata": {
+		"uri": "Order_Subtotals(1559)",
+		"type": "NorthwindModel.Order_Subtotal"
+	}
+}]

@@ -1,0 +1,181 @@
+[{
+	"TerritoryID": "TerritoryID 1",
+	"TerritoryDescription": "TerritoryDescription 1",
+	"RegionID": 1202,
+	"__metadata": {
+		"uri": "Territories('TerritoryID%201')",
+		"type": "NorthwindModel.Territory"
+	},
+	"Region": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%201')/Region"
+		}
+	},
+	"Employees": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%201')/Employees"
+		}
+	}
+}, {
+	"TerritoryID": "TerritoryID 2",
+	"TerritoryDescription": "TerritoryDescription 2",
+	"RegionID": 3970,
+	"__metadata": {
+		"uri": "Territories('TerritoryID%202')",
+		"type": "NorthwindModel.Territory"
+	},
+	"Region": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%202')/Region"
+		}
+	},
+	"Employees": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%202')/Employees"
+		}
+	}
+}, {
+	"TerritoryID": "TerritoryID 3",
+	"TerritoryDescription": "TerritoryDescription 3",
+	"RegionID": 1551,
+	"__metadata": {
+		"uri": "Territories('TerritoryID%203')",
+		"type": "NorthwindModel.Territory"
+	},
+	"Region": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%203')/Region"
+		}
+	},
+	"Employees": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%203')/Employees"
+		}
+	}
+}, {
+	"TerritoryID": "TerritoryID 4",
+	"TerritoryDescription": "TerritoryDescription 4",
+	"RegionID": 629,
+	"__metadata": {
+		"uri": "Territories('TerritoryID%204')",
+		"type": "NorthwindModel.Territory"
+	},
+	"Region": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%204')/Region"
+		}
+	},
+	"Employees": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%204')/Employees"
+		}
+	}
+}, {
+	"TerritoryID": "TerritoryID 5",
+	"TerritoryDescription": "TerritoryDescription 5",
+	"RegionID": 4828,
+	"__metadata": {
+		"uri": "Territories('TerritoryID%205')",
+		"type": "NorthwindModel.Territory"
+	},
+	"Region": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%205')/Region"
+		}
+	},
+	"Employees": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%205')/Employees"
+		}
+	}
+}, {
+	"TerritoryID": "TerritoryID 6",
+	"TerritoryDescription": "TerritoryDescription 6",
+	"RegionID": 4863,
+	"__metadata": {
+		"uri": "Territories('TerritoryID%206')",
+		"type": "NorthwindModel.Territory"
+	},
+	"Region": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%206')/Region"
+		}
+	},
+	"Employees": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%206')/Employees"
+		}
+	}
+}, {
+	"TerritoryID": "TerritoryID 7",
+	"TerritoryDescription": "TerritoryDescription 7",
+	"RegionID": 319,
+	"__metadata": {
+		"uri": "Territories('TerritoryID%207')",
+		"type": "NorthwindModel.Territory"
+	},
+	"Region": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%207')/Region"
+		}
+	},
+	"Employees": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%207')/Employees"
+		}
+	}
+}, {
+	"TerritoryID": "TerritoryID 8",
+	"TerritoryDescription": "TerritoryDescription 8",
+	"RegionID": 143,
+	"__metadata": {
+		"uri": "Territories('TerritoryID%208')",
+		"type": "NorthwindModel.Territory"
+	},
+	"Region": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%208')/Region"
+		}
+	},
+	"Employees": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%208')/Employees"
+		}
+	}
+}, {
+	"TerritoryID": "TerritoryID 9",
+	"TerritoryDescription": "TerritoryDescription 9",
+	"RegionID": 8138,
+	"__metadata": {
+		"uri": "Territories('TerritoryID%209')",
+		"type": "NorthwindModel.Territory"
+	},
+	"Region": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%209')/Region"
+		}
+	},
+	"Employees": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%209')/Employees"
+		}
+	}
+}, {
+	"TerritoryID": "TerritoryID 10",
+	"TerritoryDescription": "TerritoryDescription 10",
+	"RegionID": 6024,
+	"__metadata": {
+		"uri": "Territories('TerritoryID%2010')",
+		"type": "NorthwindModel.Territory"
+	},
+	"Region": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%2010')/Region"
+		}
+	},
+	"Employees": {
+		"__deferred": {
+			"uri": "Territories('TerritoryID%2010')/Employees"
+		}
+	}
+}]

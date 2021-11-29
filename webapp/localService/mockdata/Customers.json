@@ -1,0 +1,261 @@
+[{
+	"CustomerID": "CustomerID 1",
+	"CompanyName": "CompanyName 1",
+	"ContactName": "ContactName 1",
+	"ContactTitle": "ContactTitle 1",
+	"Address": "Address 1",
+	"City": "City 1",
+	"Region": "Region 1",
+	"PostalCode": "PostalCode 1",
+	"Country": "Country 1",
+	"Phone": "Phone 1",
+	"Fax": "Fax 1",
+	"__metadata": {
+		"uri": "Customers('CustomerID%201')",
+		"type": "NorthwindModel.Customer"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%201')/Orders"
+		}
+	},
+	"CustomerDemographics": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%201')/CustomerDemographics"
+		}
+	}
+}, {
+	"CustomerID": "CustomerID 2",
+	"CompanyName": "CompanyName 2",
+	"ContactName": "ContactName 2",
+	"ContactTitle": "ContactTitle 2",
+	"Address": "Address 2",
+	"City": "City 2",
+	"Region": "Region 2",
+	"PostalCode": "PostalCode 2",
+	"Country": "Country 2",
+	"Phone": "Phone 2",
+	"Fax": "Fax 2",
+	"__metadata": {
+		"uri": "Customers('CustomerID%202')",
+		"type": "NorthwindModel.Customer"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%202')/Orders"
+		}
+	},
+	"CustomerDemographics": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%202')/CustomerDemographics"
+		}
+	}
+}, {
+	"CustomerID": "CustomerID 3",
+	"CompanyName": "CompanyName 3",
+	"ContactName": "ContactName 3",
+	"ContactTitle": "ContactTitle 3",
+	"Address": "Address 3",
+	"City": "City 3",
+	"Region": "Region 3",
+	"PostalCode": "PostalCode 3",
+	"Country": "Country 3",
+	"Phone": "Phone 3",
+	"Fax": "Fax 3",
+	"__metadata": {
+		"uri": "Customers('CustomerID%203')",
+		"type": "NorthwindModel.Customer"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%203')/Orders"
+		}
+	},
+	"CustomerDemographics": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%203')/CustomerDemographics"
+		}
+	}
+}, {
+	"CustomerID": "CustomerID 4",
+	"CompanyName": "CompanyName 4",
+	"ContactName": "ContactName 4",
+	"ContactTitle": "ContactTitle 4",
+	"Address": "Address 4",
+	"City": "City 4",
+	"Region": "Region 4",
+	"PostalCode": "PostalCode 4",
+	"Country": "Country 4",
+	"Phone": "Phone 4",
+	"Fax": "Fax 4",
+	"__metadata": {
+		"uri": "Customers('CustomerID%204')",
+		"type": "NorthwindModel.Customer"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%204')/Orders"
+		}
+	},
+	"CustomerDemographics": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%204')/CustomerDemographics"
+		}
+	}
+}, {
+	"CustomerID": "CustomerID 5",
+	"CompanyName": "CompanyName 5",
+	"ContactName": "ContactName 5",
+	"ContactTitle": "ContactTitle 5",
+	"Address": "Address 5",
+	"City": "City 5",
+	"Region": "Region 5",
+	"PostalCode": "PostalCode 5",
+	"Country": "Country 5",
+	"Phone": "Phone 5",
+	"Fax": "Fax 5",
+	"__metadata": {
+		"uri": "Customers('CustomerID%205')",
+		"type": "NorthwindModel.Customer"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%205')/Orders"
+		}
+	},
+	"CustomerDemographics": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%205')/CustomerDemographics"
+		}
+	}
+}, {
+	"CustomerID": "CustomerID 6",
+	"CompanyName": "CompanyName 6",
+	"ContactName": "ContactName 6",
+	"ContactTitle": "ContactTitle 6",
+	"Address": "Address 6",
+	"City": "City 6",
+	"Region": "Region 6",
+	"PostalCode": "PostalCode 6",
+	"Country": "Country 6",
+	"Phone": "Phone 6",
+	"Fax": "Fax 6",
+	"__metadata": {
+		"uri": "Customers('CustomerID%206')",
+		"type": "NorthwindModel.Customer"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%206')/Orders"
+		}
+	},
+	"CustomerDemographics": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%206')/CustomerDemographics"
+		}
+	}
+}, {
+	"CustomerID": "CustomerID 7",
+	"CompanyName": "CompanyName 7",
+	"ContactName": "ContactName 7",
+	"ContactTitle": "ContactTitle 7",
+	"Address": "Address 7",
+	"City": "City 7",
+	"Region": "Region 7",
+	"PostalCode": "PostalCode 7",
+	"Country": "Country 7",
+	"Phone": "Phone 7",
+	"Fax": "Fax 7",
+	"__metadata": {
+		"uri": "Customers('CustomerID%207')",
+		"type": "NorthwindModel.Customer"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%207')/Orders"
+		}
+	},
+	"CustomerDemographics": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%207')/CustomerDemographics"
+		}
+	}
+}, {
+	"CustomerID": "CustomerID 8",
+	"CompanyName": "CompanyName 8",
+	"ContactName": "ContactName 8",
+	"ContactTitle": "ContactTitle 8",
+	"Address": "Address 8",
+	"City": "City 8",
+	"Region": "Region 8",
+	"PostalCode": "PostalCode 8",
+	"Country": "Country 8",
+	"Phone": "Phone 8",
+	"Fax": "Fax 8",
+	"__metadata": {
+		"uri": "Customers('CustomerID%208')",
+		"type": "NorthwindModel.Customer"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%208')/Orders"
+		}
+	},
+	"CustomerDemographics": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%208')/CustomerDemographics"
+		}
+	}
+}, {
+	"CustomerID": "CustomerID 9",
+	"CompanyName": "CompanyName 9",
+	"ContactName": "ContactName 9",
+	"ContactTitle": "ContactTitle 9",
+	"Address": "Address 9",
+	"City": "City 9",
+	"Region": "Region 9",
+	"PostalCode": "PostalCode 9",
+	"Country": "Country 9",
+	"Phone": "Phone 9",
+	"Fax": "Fax 9",
+	"__metadata": {
+		"uri": "Customers('CustomerID%209')",
+		"type": "NorthwindModel.Customer"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%209')/Orders"
+		}
+	},
+	"CustomerDemographics": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%209')/CustomerDemographics"
+		}
+	}
+}, {
+	"CustomerID": "CustomerID 10",
+	"CompanyName": "CompanyName 10",
+	"ContactName": "ContactName 10",
+	"ContactTitle": "ContactTitle 10",
+	"Address": "Address 10",
+	"City": "City 10",
+	"Region": "Region 10",
+	"PostalCode": "PostalCode 10",
+	"Country": "Country 10",
+	"Phone": "Phone 10",
+	"Fax": "Fax 10",
+	"__metadata": {
+		"uri": "Customers('CustomerID%2010')",
+		"type": "NorthwindModel.Customer"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%2010')/Orders"
+		}
+	},
+	"CustomerDemographics": {
+		"__deferred": {
+			"uri": "Customers('CustomerID%2010')/CustomerDemographics"
+		}
+	}
+}]

@@ -1,0 +1,71 @@
+[{
+	"ProductName": "ProductName 1",
+	"UnitPrice": 188.38,
+	"__metadata": {
+		"uri": "Products_Above_Average_Prices('ProductName%201')",
+		"type": "NorthwindModel.Products_Above_Average_Price"
+	}
+}, {
+	"ProductName": "ProductName 2",
+	"UnitPrice": 7506.16,
+	"__metadata": {
+		"uri": "Products_Above_Average_Prices('ProductName%202')",
+		"type": "NorthwindModel.Products_Above_Average_Price"
+	}
+}, {
+	"ProductName": "ProductName 3",
+	"UnitPrice": 9220.45,
+	"__metadata": {
+		"uri": "Products_Above_Average_Prices('ProductName%203')",
+		"type": "NorthwindModel.Products_Above_Average_Price"
+	}
+}, {
+	"ProductName": "ProductName 4",
+	"UnitPrice": 8636.99,
+	"__metadata": {
+		"uri": "Products_Above_Average_Prices('ProductName%204')",
+		"type": "NorthwindModel.Products_Above_Average_Price"
+	}
+}, {
+	"ProductName": "ProductName 5",
+	"UnitPrice": 6057.63,
+	"__metadata": {
+		"uri": "Products_Above_Average_Prices('ProductName%205')",
+		"type": "NorthwindModel.Products_Above_Average_Price"
+	}
+}, {
+	"ProductName": "ProductName 6",
+	"UnitPrice": 1597.77,
+	"__metadata": {
+		"uri": "Products_Above_Average_Prices('ProductName%206')",
+		"type": "NorthwindModel.Products_Above_Average_Price"
+	}
+}, {
+	"ProductName": "ProductName 7",
+	"UnitPrice": 8955.34,
+	"__metadata": {
+		"uri": "Products_Above_Average_Prices('ProductName%207')",
+		"type": "NorthwindModel.Products_Above_Average_Price"
+	}
+}, {
+	"ProductName": "ProductName 8",
+	"UnitPrice": 2729.83,
+	"__metadata": {
+		"uri": "Products_Above_Average_Prices('ProductName%208')",
+		"type": "NorthwindModel.Products_Above_Average_Price"
+	}
+}, {
+	"ProductName": "ProductName 9",
+	"UnitPrice": 9324.77,
+	"__metadata": {
+		"uri": "Products_Above_Average_Prices('ProductName%209')",
+		"type": "NorthwindModel.Products_Above_Average_Price"
+	}
+}, {
+	"ProductName": "ProductName 10",
+	"UnitPrice": 8156.5,
+	"__metadata": {
+		"uri": "Products_Above_Average_Prices('ProductName%2010')",
+		"type": "NorthwindModel.Products_Above_Average_Price"
+	}
+}]

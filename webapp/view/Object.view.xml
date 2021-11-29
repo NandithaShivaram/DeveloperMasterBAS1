@@ -1,0 +1,92 @@
+<mvc:View controllerName="au.com.bournedigital.controller.Object" xmlns="sap.m" xmlns:layout="sap.ui.layout" xmlns:mvc="sap.ui.core.mvc"
+	xmlns:semantic="sap.f.semantic" xmlns:footerbar="sap.ushell.ui.footerbar" xmlns:smartField="sap.ui.comp.smartfield">
+	<semantic:SemanticPage id="page" headerPinnable="false" toggleHeaderOnTitleClick="false" busy="{objectView>/busy}"
+		busyIndicatorDelay="{objectView>/delay}">
+		<!-- Title Heading-->
+		<semantic:titleHeading>
+			<layout:HorizontalLayout>
+				<Title text="{Customer/CompanyName}" class="sapUiSmallMarginEnd"/>
+				<ObjectAttribute title="{i18n>orderId}" text="{ path:'OrderID', formatter: '.formatter.numberUnit' }"/>
+			</layout:HorizontalLayout>
+		</semantic:titleHeading>
+		<!-- Header Content-->
+		<semantic:headerContent>
+			<layout:HorizontalLayout>
+				<layout:VerticalLayout class="sapUiMediumMarginEnd">
+					<layout:HorizontalLayout>
+						<Label text="{i18n>contactName}" labelFor="contactName"/>
+						<ObjectAttribute id="contactName" text="{Customer/ContactName}" class="myCustomText"/>
+					</layout:HorizontalLayout>
+					<layout:HorizontalLayout>
+						<Label text="{i18n>contactTitle}" labelFor="contact"/>
+						<ObjectAttribute id="contact" text="{Customer/ContactTitle}" class="myCustomText"/>
+					</layout:HorizontalLayout>
+					<layout:HorizontalLayout>
+						<Label text="{i18n>phone}" labelFor="phone"/>
+						<ObjectAttribute id="phone" text="{Customer/Phone}" class="myCustomText"/>
+					</layout:HorizontalLayout>
+				</layout:VerticalLayout>
+				<layout:VerticalLayout class="sapUiMediumMarginEnd">
+					<layout:HorizontalLayout>
+						<Label text="{i18n>address}" labelFor="address"/>
+						<ObjectAttribute id="address" text="{Customer/Address}" class="myCustomText"/>
+					</layout:HorizontalLayout>
+					<layout:HorizontalLayout>
+						<Label text="{i18n>postalCodeCity}" labelFor="postalCodeCity"/>
+						<ObjectAttribute id="postalCodeCity" text="{parts: [{path:'Customer/PostalCode'},{path:'Customer/City'}]}" class="myCustomText"/>
+					</layout:HorizontalLayout>
+					<layout:HorizontalLayout>
+						<Label text="{i18n>country}" labelFor="country"/>
+						<ObjectAttribute id="country" text="{Customer/Country}" class="myCustomText"/>
+					</layout:HorizontalLayout>
+				</layout:VerticalLayout>
+				<layout:VerticalLayout class="sapUiMediumMarginEnd">
+					<Label text="{i18n>totalValue}" labelFor="totalValue"/>
+					<layout:HorizontalLayout>
+						<ObjectNumber id="totalValue" number="{totalValueModel>/totalValue}" class="myCustomNumber"/>
+						<ObjectAttribute text="{i18n>currencyCode}"/>
+					</layout:HorizontalLayout>
+				</layout:VerticalLayout>
+			</layout:HorizontalLayout>
+		</semantic:headerContent>
+		<!-- Content -->
+		<semantic:content>
+			<Table id="idOrderItemsTable" headerText="{i18n>orderItems}" inset="false" items="{Order_Details}" class="sapFSemanticPageAlignContent"
+				width="auto">
+				<columns>
+					<Column>
+						<Text text="{i18n>productId}"/>
+					</Column>
+					<Column minScreenWidth="Tablet" demandPopin="true">
+						<Text text="{i18n>unitPrice}"/>
+					</Column>
+					<Column minScreenWidth="Tablet" demandPopin="true">
+						<Text text="{i18n>quantity}"/>
+					</Column>
+					<Column minScreenWidth="Tablet" demandPopin="true">
+						<Text text="{i18n>discount}"/>
+					</Column>
+				</columns>
+				<items>
+					<ColumnListItem vAlign="Middle">
+						<cells>
+							<ObjectIdentifier title="{ProductID}"/>
+							<Text text="{UnitPrice}"/>
+							<Text text="{Quantity}"/>
+							<ObjectNumber number="{Discount}" state="Warning"/>
+						</cells>
+					</ColumnListItem>
+				</items>
+			</Table>
+		</semantic:content>
+		<semantic:sendEmailAction>
+			<semantic:SendEmailAction id="shareEmail" press="onShareEmailPress"/>
+		</semantic:sendEmailAction>
+		<semantic:shareInJamAction>
+			<semantic:ShareInJamAction id="shareInJam" visible="{FLP>/isShareInJamActive}" press="onShareInJamPress"/>
+		</semantic:shareInJamAction>
+		<semantic:saveAsTileAction>
+			<footerbar:AddBookmarkButton id="shareTile" title="{objectView>/saveAsTileTitle}"/>
+		</semantic:saveAsTileAction>
+	</semantic:SemanticPage>
+</mvc:View>

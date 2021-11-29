@@ -1,0 +1,221 @@
+[{
+	"SupplierID": 9276,
+	"CompanyName": "CompanyName 1",
+	"ContactName": "ContactName 1",
+	"ContactTitle": "ContactTitle 1",
+	"Address": "Address 1",
+	"City": "City 1",
+	"Region": "Region 1",
+	"PostalCode": "PostalCode 1",
+	"Country": "Country 1",
+	"Phone": "Phone 1",
+	"Fax": "Fax 1",
+	"HomePage": "HomePage 1",
+	"__metadata": {
+		"uri": "Suppliers(9276)",
+		"type": "NorthwindModel.Supplier"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Suppliers(9276)/Products"
+		}
+	}
+}, {
+	"SupplierID": 1407,
+	"CompanyName": "CompanyName 2",
+	"ContactName": "ContactName 2",
+	"ContactTitle": "ContactTitle 2",
+	"Address": "Address 2",
+	"City": "City 2",
+	"Region": "Region 2",
+	"PostalCode": "PostalCode 2",
+	"Country": "Country 2",
+	"Phone": "Phone 2",
+	"Fax": "Fax 2",
+	"HomePage": "HomePage 2",
+	"__metadata": {
+		"uri": "Suppliers(1407)",
+		"type": "NorthwindModel.Supplier"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Suppliers(1407)/Products"
+		}
+	}
+}, {
+	"SupplierID": 3991,
+	"CompanyName": "CompanyName 3",
+	"ContactName": "ContactName 3",
+	"ContactTitle": "ContactTitle 3",
+	"Address": "Address 3",
+	"City": "City 3",
+	"Region": "Region 3",
+	"PostalCode": "PostalCode 3",
+	"Country": "Country 3",
+	"Phone": "Phone 3",
+	"Fax": "Fax 3",
+	"HomePage": "HomePage 3",
+	"__metadata": {
+		"uri": "Suppliers(3991)",
+		"type": "NorthwindModel.Supplier"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Suppliers(3991)/Products"
+		}
+	}
+}, {
+	"SupplierID": 5505,
+	"CompanyName": "CompanyName 4",
+	"ContactName": "ContactName 4",
+	"ContactTitle": "ContactTitle 4",
+	"Address": "Address 4",
+	"City": "City 4",
+	"Region": "Region 4",
+	"PostalCode": "PostalCode 4",
+	"Country": "Country 4",
+	"Phone": "Phone 4",
+	"Fax": "Fax 4",
+	"HomePage": "HomePage 4",
+	"__metadata": {
+		"uri": "Suppliers(5505)",
+		"type": "NorthwindModel.Supplier"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Suppliers(5505)/Products"
+		}
+	}
+}, {
+	"SupplierID": 9711,
+	"CompanyName": "CompanyName 5",
+	"ContactName": "ContactName 5",
+	"ContactTitle": "ContactTitle 5",
+	"Address": "Address 5",
+	"City": "City 5",
+	"Region": "Region 5",
+	"PostalCode": "PostalCode 5",
+	"Country": "Country 5",
+	"Phone": "Phone 5",
+	"Fax": "Fax 5",
+	"HomePage": "HomePage 5",
+	"__metadata": {
+		"uri": "Suppliers(9711)",
+		"type": "NorthwindModel.Supplier"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Suppliers(9711)/Products"
+		}
+	}
+}, {
+	"SupplierID": 7021,
+	"CompanyName": "CompanyName 6",
+	"ContactName": "ContactName 6",
+	"ContactTitle": "ContactTitle 6",
+	"Address": "Address 6",
+	"City": "City 6",
+	"Region": "Region 6",
+	"PostalCode": "PostalCode 6",
+	"Country": "Country 6",
+	"Phone": "Phone 6",
+	"Fax": "Fax 6",
+	"HomePage": "HomePage 6",
+	"__metadata": {
+		"uri": "Suppliers(7021)",
+		"type": "NorthwindModel.Supplier"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Suppliers(7021)/Products"
+		}
+	}
+}, {
+	"SupplierID": 1636,
+	"CompanyName": "CompanyName 7",
+	"ContactName": "ContactName 7",
+	"ContactTitle": "ContactTitle 7",
+	"Address": "Address 7",
+	"City": "City 7",
+	"Region": "Region 7",
+	"PostalCode": "PostalCode 7",
+	"Country": "Country 7",
+	"Phone": "Phone 7",
+	"Fax": "Fax 7",
+	"HomePage": "HomePage 7",
+	"__metadata": {
+		"uri": "Suppliers(1636)",
+		"type": "NorthwindModel.Supplier"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Suppliers(1636)/Products"
+		}
+	}
+}, {
+	"SupplierID": 3878,
+	"CompanyName": "CompanyName 8",
+	"ContactName": "ContactName 8",
+	"ContactTitle": "ContactTitle 8",
+	"Address": "Address 8",
+	"City": "City 8",
+	"Region": "Region 8",
+	"PostalCode": "PostalCode 8",
+	"Country": "Country 8",
+	"Phone": "Phone 8",
+	"Fax": "Fax 8",
+	"HomePage": "HomePage 8",
+	"__metadata": {
+		"uri": "Suppliers(3878)",
+		"type": "NorthwindModel.Supplier"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Suppliers(3878)/Products"
+		}
+	}
+}, {
+	"SupplierID": 3838,
+	"CompanyName": "CompanyName 9",
+	"ContactName": "ContactName 9",
+	"ContactTitle": "ContactTitle 9",
+	"Address": "Address 9",
+	"City": "City 9",
+	"Region": "Region 9",
+	"PostalCode": "PostalCode 9",
+	"Country": "Country 9",
+	"Phone": "Phone 9",
+	"Fax": "Fax 9",
+	"HomePage": "HomePage 9",
+	"__metadata": {
+		"uri": "Suppliers(3838)",
+		"type": "NorthwindModel.Supplier"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Suppliers(3838)/Products"
+		}
+	}
+}, {
+	"SupplierID": 6705,
+	"CompanyName": "CompanyName 10",
+	"ContactName": "ContactName 10",
+	"ContactTitle": "ContactTitle 10",
+	"Address": "Address 10",
+	"City": "City 10",
+	"Region": "Region 10",
+	"PostalCode": "PostalCode 10",
+	"Country": "Country 10",
+	"Phone": "Phone 10",
+	"Fax": "Fax 10",
+	"HomePage": "HomePage 10",
+	"__metadata": {
+		"uri": "Suppliers(6705)",
+		"type": "NorthwindModel.Supplier"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Suppliers(6705)/Products"
+		}
+	}
+}]

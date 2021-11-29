@@ -1,0 +1,201 @@
+[{
+	"OrderID": 2022,
+	"ProductID": 72,
+	"UnitPrice": 9.85,
+	"Quantity": 4881,
+	"Discount": 985394.674611232,
+	"__metadata": {
+		"uri": "Order_Details(OrderID=2022,ProductID=72)",
+		"type": "NorthwindModel.Order_Detail"
+	},
+	"Order": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=2022,ProductID=72)/Order"
+		}
+	},
+	"Product": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=2022,ProductID=72)/Product"
+		}
+	}
+}, {
+	"OrderID": 7647,
+	"ProductID": 6070,
+	"UnitPrice": 416.31,
+	"Quantity": 9259,
+	"Discount": 41631090.25208215,
+	"__metadata": {
+		"uri": "Order_Details(OrderID=7647,ProductID=6070)",
+		"type": "NorthwindModel.Order_Detail"
+	},
+	"Order": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=7647,ProductID=6070)/Order"
+		}
+	},
+	"Product": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=7647,ProductID=6070)/Product"
+		}
+	}
+}, {
+	"OrderID": 2919,
+	"ProductID": 144,
+	"UnitPrice": 6671.92,
+	"Quantity": 6073,
+	"Discount": 667192135.3592036,
+	"__metadata": {
+		"uri": "Order_Details(OrderID=2919,ProductID=144)",
+		"type": "NorthwindModel.Order_Detail"
+	},
+	"Order": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=2919,ProductID=144)/Order"
+		}
+	},
+	"Product": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=2919,ProductID=144)/Product"
+		}
+	}
+}, {
+	"OrderID": 9360,
+	"ProductID": 4943,
+	"UnitPrice": 2613.6,
+	"Quantity": 9049,
+	"Discount": 261360808.61097094,
+	"__metadata": {
+		"uri": "Order_Details(OrderID=9360,ProductID=4943)",
+		"type": "NorthwindModel.Order_Detail"
+	},
+	"Order": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=9360,ProductID=4943)/Order"
+		}
+	},
+	"Product": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=9360,ProductID=4943)/Product"
+		}
+	}
+}, {
+	"OrderID": 4552,
+	"ProductID": 6277,
+	"UnitPrice": 7960.43,
+	"Quantity": 4501,
+	"Discount": 796043920.8624052,
+	"__metadata": {
+		"uri": "Order_Details(OrderID=4552,ProductID=6277)",
+		"type": "NorthwindModel.Order_Detail"
+	},
+	"Order": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=4552,ProductID=6277)/Order"
+		}
+	},
+	"Product": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=4552,ProductID=6277)/Product"
+		}
+	}
+}, {
+	"OrderID": 2981,
+	"ProductID": 5639,
+	"UnitPrice": 2584.86,
+	"Quantity": 49,
+	"Discount": 258486532.84436646,
+	"__metadata": {
+		"uri": "Order_Details(OrderID=2981,ProductID=5639)",
+		"type": "NorthwindModel.Order_Detail"
+	},
+	"Order": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=2981,ProductID=5639)/Order"
+		}
+	},
+	"Product": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=2981,ProductID=5639)/Product"
+		}
+	}
+}, {
+	"OrderID": 8629,
+	"ProductID": 1383,
+	"UnitPrice": 5101.49,
+	"Quantity": 5026,
+	"Discount": 510149269.46004915,
+	"__metadata": {
+		"uri": "Order_Details(OrderID=8629,ProductID=1383)",
+		"type": "NorthwindModel.Order_Detail"
+	},
+	"Order": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=8629,ProductID=1383)/Order"
+		}
+	},
+	"Product": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=8629,ProductID=1383)/Product"
+		}
+	}
+}, {
+	"OrderID": 4489,
+	"ProductID": 7837,
+	"UnitPrice": 7638.68,
+	"Quantity": 286,
+	"Discount": 763868255.3941178,
+	"__metadata": {
+		"uri": "Order_Details(OrderID=4489,ProductID=7837)",
+		"type": "NorthwindModel.Order_Detail"
+	},
+	"Order": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=4489,ProductID=7837)/Order"
+		}
+	},
+	"Product": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=4489,ProductID=7837)/Product"
+		}
+	}
+}, {
+	"OrderID": 8055,
+	"ProductID": 1312,
+	"UnitPrice": 100.85,
+	"Quantity": 9383,
+	"Discount": 10085823.356892157,
+	"__metadata": {
+		"uri": "Order_Details(OrderID=8055,ProductID=1312)",
+		"type": "NorthwindModel.Order_Detail"
+	},
+	"Order": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=8055,ProductID=1312)/Order"
+		}
+	},
+	"Product": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=8055,ProductID=1312)/Product"
+		}
+	}
+}, {
+	"OrderID": 2856,
+	"ProductID": 6249,
+	"UnitPrice": 8688.55,
+	"Quantity": 7435,
+	"Discount": 868855515.6135566,
+	"__metadata": {
+		"uri": "Order_Details(OrderID=2856,ProductID=6249)",
+		"type": "NorthwindModel.Order_Detail"
+	},
+	"Order": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=2856,ProductID=6249)/Order"
+		}
+	},
+	"Product": {
+		"__deferred": {
+			"uri": "Order_Details(OrderID=2856,ProductID=6249)/Product"
+		}
+	}
+}]

@@ -1,0 +1,131 @@
+[{
+	"CustomerTypeID": "CustomerTypeID 1",
+	"CustomerDesc": "CustomerDesc 1",
+	"__metadata": {
+		"uri": "CustomerDemographics('CustomerTypeID%201')",
+		"type": "NorthwindModel.CustomerDemographic"
+	},
+	"Customers": {
+		"__deferred": {
+			"uri": "CustomerDemographics('CustomerTypeID%201')/Customers"
+		}
+	},
+	"undefined": "CustomerID 1"
+}, {
+	"CustomerTypeID": "CustomerTypeID 2",
+	"CustomerDesc": "CustomerDesc 2",
+	"__metadata": {
+		"uri": "CustomerDemographics('CustomerTypeID%202')",
+		"type": "NorthwindModel.CustomerDemographic"
+	},
+	"Customers": {
+		"__deferred": {
+			"uri": "CustomerDemographics('CustomerTypeID%202')/Customers"
+		}
+	},
+	"undefined": "CustomerID 2"
+}, {
+	"CustomerTypeID": "CustomerTypeID 3",
+	"CustomerDesc": "CustomerDesc 3",
+	"__metadata": {
+		"uri": "CustomerDemographics('CustomerTypeID%203')",
+		"type": "NorthwindModel.CustomerDemographic"
+	},
+	"Customers": {
+		"__deferred": {
+			"uri": "CustomerDemographics('CustomerTypeID%203')/Customers"
+		}
+	},
+	"undefined": "CustomerID 3"
+}, {
+	"CustomerTypeID": "CustomerTypeID 4",
+	"CustomerDesc": "CustomerDesc 4",
+	"__metadata": {
+		"uri": "CustomerDemographics('CustomerTypeID%204')",
+		"type": "NorthwindModel.CustomerDemographic"
+	},
+	"Customers": {
+		"__deferred": {
+			"uri": "CustomerDemographics('CustomerTypeID%204')/Customers"
+		}
+	},
+	"undefined": "CustomerID 4"
+}, {
+	"CustomerTypeID": "CustomerTypeID 5",
+	"CustomerDesc": "CustomerDesc 5",
+	"__metadata": {
+		"uri": "CustomerDemographics('CustomerTypeID%205')",
+		"type": "NorthwindModel.CustomerDemographic"
+	},
+	"Customers": {
+		"__deferred": {
+			"uri": "CustomerDemographics('CustomerTypeID%205')/Customers"
+		}
+	},
+	"undefined": "CustomerID 5"
+}, {
+	"CustomerTypeID": "CustomerTypeID 6",
+	"CustomerDesc": "CustomerDesc 6",
+	"__metadata": {
+		"uri": "CustomerDemographics('CustomerTypeID%206')",
+		"type": "NorthwindModel.CustomerDemographic"
+	},
+	"Customers": {
+		"__deferred": {
+			"uri": "CustomerDemographics('CustomerTypeID%206')/Customers"
+		}
+	},
+	"undefined": "CustomerID 6"
+}, {
+	"CustomerTypeID": "CustomerTypeID 7",
+	"CustomerDesc": "CustomerDesc 7",
+	"__metadata": {
+		"uri": "CustomerDemographics('CustomerTypeID%207')",
+		"type": "NorthwindModel.CustomerDemographic"
+	},
+	"Customers": {
+		"__deferred": {
+			"uri": "CustomerDemographics('CustomerTypeID%207')/Customers"
+		}
+	},
+	"undefined": "CustomerID 7"
+}, {
+	"CustomerTypeID": "CustomerTypeID 8",
+	"CustomerDesc": "CustomerDesc 8",
+	"__metadata": {
+		"uri": "CustomerDemographics('CustomerTypeID%208')",
+		"type": "NorthwindModel.CustomerDemographic"
+	},
+	"Customers": {
+		"__deferred": {
+			"uri": "CustomerDemographics('CustomerTypeID%208')/Customers"
+		}
+	},
+	"undefined": "CustomerID 8"
+}, {
+	"CustomerTypeID": "CustomerTypeID 9",
+	"CustomerDesc": "CustomerDesc 9",
+	"__metadata": {
+		"uri": "CustomerDemographics('CustomerTypeID%209')",
+		"type": "NorthwindModel.CustomerDemographic"
+	},
+	"Customers": {
+		"__deferred": {
+			"uri": "CustomerDemographics('CustomerTypeID%209')/Customers"
+		}
+	},
+	"undefined": "CustomerID 9"
+}, {
+	"CustomerTypeID": "CustomerTypeID 10",
+	"CustomerDesc": "CustomerDesc 10",
+	"__metadata": {
+		"uri": "CustomerDemographics('CustomerTypeID%2010')",
+		"type": "NorthwindModel.CustomerDemographic"
+	},
+	"Customers": {
+		"__deferred": {
+			"uri": "CustomerDemographics('CustomerTypeID%2010')/Customers"
+		}
+	},
+	"undefined": "CustomerID 10"
+}]

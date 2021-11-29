@@ -1,0 +1,431 @@
+[{
+	"EmployeeID": 6043,
+	"LastName": "LastName 1",
+	"FirstName": "FirstName 1",
+	"Title": "Title 1",
+	"TitleOfCourtesy": "TitleOfCourtesy 1",
+	"BirthDate": "/Date(967811282000)/",
+	"HireDate": "/Date(1114262882000)/",
+	"Address": "Address 1",
+	"City": "City 1",
+	"Region": "Region 1",
+	"PostalCode": "PostalCode 1",
+	"Country": "Country 1",
+	"HomePhone": "HomePhone 1",
+	"Extension": "Extension 1",
+	"Photo": "00011010101110001100001111000101",
+	"Notes": "Notes 1",
+	"ReportsTo": 6043,
+	"PhotoPath": "PhotoPath 1",
+	"__metadata": {
+		"uri": "Employees(6043)",
+		"type": "NorthwindModel.Employee"
+	},
+	"Employees1": {
+		"__deferred": {
+			"uri": "Employees(6043)/Employees1"
+		}
+	},
+	"Employee1": {
+		"__deferred": {
+			"uri": "Employees(6043)/Employee1"
+		}
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Employees(6043)/Orders"
+		}
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Employees(6043)/Territories"
+		}
+	}
+}, {
+	"EmployeeID": 5449,
+	"LastName": "LastName 2",
+	"FirstName": "FirstName 2",
+	"Title": "Title 2",
+	"TitleOfCourtesy": "TitleOfCourtesy 2",
+	"BirthDate": "/Date(1264163282000)/",
+	"HireDate": "/Date(1509193682000)/",
+	"Address": "Address 2",
+	"City": "City 2",
+	"Region": "Region 2",
+	"PostalCode": "PostalCode 2",
+	"Country": "Country 2",
+	"HomePhone": "HomePhone 2",
+	"Extension": "Extension 2",
+	"Photo": "11111010011011011110110001010110",
+	"Notes": "Notes 2",
+	"ReportsTo": 5449,
+	"PhotoPath": "PhotoPath 2",
+	"__metadata": {
+		"uri": "Employees(5449)",
+		"type": "NorthwindModel.Employee"
+	},
+	"Employees1": {
+		"__deferred": {
+			"uri": "Employees(5449)/Employees1"
+		}
+	},
+	"Employee1": {
+		"__deferred": {
+			"uri": "Employees(5449)/Employee1"
+		}
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Employees(5449)/Orders"
+		}
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Employees(5449)/Territories"
+		}
+	}
+}, {
+	"EmployeeID": 8708,
+	"LastName": "LastName 3",
+	"FirstName": "FirstName 3",
+	"Title": "Title 3",
+	"TitleOfCourtesy": "TitleOfCourtesy 3",
+	"BirthDate": "/Date(1149168482000)/",
+	"HireDate": "/Date(1224678482000)/",
+	"Address": "Address 3",
+	"City": "City 3",
+	"Region": "Region 3",
+	"PostalCode": "PostalCode 3",
+	"Country": "Country 3",
+	"HomePhone": "HomePhone 3",
+	"Extension": "Extension 3",
+	"Photo": "00001011100000101110111011000001",
+	"Notes": "Notes 3",
+	"ReportsTo": 8708,
+	"PhotoPath": "PhotoPath 3",
+	"__metadata": {
+		"uri": "Employees(8708)",
+		"type": "NorthwindModel.Employee"
+	},
+	"Employees1": {
+		"__deferred": {
+			"uri": "Employees(8708)/Employees1"
+		}
+	},
+	"Employee1": {
+		"__deferred": {
+			"uri": "Employees(8708)/Employee1"
+		}
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Employees(8708)/Orders"
+		}
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Employees(8708)/Territories"
+		}
+	}
+}, {
+	"EmployeeID": 7329,
+	"LastName": "LastName 4",
+	"FirstName": "FirstName 4",
+	"Title": "Title 4",
+	"TitleOfCourtesy": "TitleOfCourtesy 4",
+	"BirthDate": "/Date(1190122082000)/",
+	"HireDate": "/Date(1157722082000)/",
+	"Address": "Address 4",
+	"City": "City 4",
+	"Region": "Region 4",
+	"PostalCode": "PostalCode 4",
+	"Country": "Country 4",
+	"HomePhone": "HomePhone 4",
+	"Extension": "Extension 4",
+	"Photo": "01000001101101110001001100001010",
+	"Notes": "Notes 4",
+	"ReportsTo": 7329,
+	"PhotoPath": "PhotoPath 4",
+	"__metadata": {
+		"uri": "Employees(7329)",
+		"type": "NorthwindModel.Employee"
+	},
+	"Employees1": {
+		"__deferred": {
+			"uri": "Employees(7329)/Employees1"
+		}
+	},
+	"Employee1": {
+		"__deferred": {
+			"uri": "Employees(7329)/Employee1"
+		}
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Employees(7329)/Orders"
+		}
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Employees(7329)/Territories"
+		}
+	}
+}, {
+	"EmployeeID": 4086,
+	"LastName": "LastName 5",
+	"FirstName": "FirstName 5",
+	"Title": "Title 5",
+	"TitleOfCourtesy": "TitleOfCourtesy 5",
+	"BirthDate": "/Date(1139228882000)/",
+	"HireDate": "/Date(1405344482000)/",
+	"Address": "Address 5",
+	"City": "City 5",
+	"Region": "Region 5",
+	"PostalCode": "PostalCode 5",
+	"Country": "Country 5",
+	"HomePhone": "HomePhone 5",
+	"Extension": "Extension 5",
+	"Photo": "01011110111100110011000101000010",
+	"Notes": "Notes 5",
+	"ReportsTo": 4086,
+	"PhotoPath": "PhotoPath 5",
+	"__metadata": {
+		"uri": "Employees(4086)",
+		"type": "NorthwindModel.Employee"
+	},
+	"Employees1": {
+		"__deferred": {
+			"uri": "Employees(4086)/Employees1"
+		}
+	},
+	"Employee1": {
+		"__deferred": {
+			"uri": "Employees(4086)/Employee1"
+		}
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Employees(4086)/Orders"
+		}
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Employees(4086)/Territories"
+		}
+	}
+}, {
+	"EmployeeID": 3914,
+	"LastName": "LastName 6",
+	"FirstName": "FirstName 6",
+	"Title": "Title 6",
+	"TitleOfCourtesy": "TitleOfCourtesy 6",
+	"BirthDate": "/Date(1301401682000)/",
+	"HireDate": "/Date(1516105682000)/",
+	"Address": "Address 6",
+	"City": "City 6",
+	"Region": "Region 6",
+	"PostalCode": "PostalCode 6",
+	"Country": "Country 6",
+	"HomePhone": "HomePhone 6",
+	"Extension": "Extension 6",
+	"Photo": "11000000000000111001110011100100",
+	"Notes": "Notes 6",
+	"ReportsTo": 3914,
+	"PhotoPath": "PhotoPath 6",
+	"__metadata": {
+		"uri": "Employees(3914)",
+		"type": "NorthwindModel.Employee"
+	},
+	"Employees1": {
+		"__deferred": {
+			"uri": "Employees(3914)/Employees1"
+		}
+	},
+	"Employee1": {
+		"__deferred": {
+			"uri": "Employees(3914)/Employee1"
+		}
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Employees(3914)/Orders"
+		}
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Employees(3914)/Territories"
+		}
+	}
+}, {
+	"EmployeeID": 4605,
+	"LastName": "LastName 7",
+	"FirstName": "FirstName 7",
+	"Title": "Title 7",
+	"TitleOfCourtesy": "TitleOfCourtesy 7",
+	"BirthDate": "/Date(1274189282000)/",
+	"HireDate": "/Date(990278882000)/",
+	"Address": "Address 7",
+	"City": "City 7",
+	"Region": "Region 7",
+	"PostalCode": "PostalCode 7",
+	"Country": "Country 7",
+	"HomePhone": "HomePhone 7",
+	"Extension": "Extension 7",
+	"Photo": "00111011101000010110011111001111",
+	"Notes": "Notes 7",
+	"ReportsTo": 4605,
+	"PhotoPath": "PhotoPath 7",
+	"__metadata": {
+		"uri": "Employees(4605)",
+		"type": "NorthwindModel.Employee"
+	},
+	"Employees1": {
+		"__deferred": {
+			"uri": "Employees(4605)/Employees1"
+		}
+	},
+	"Employee1": {
+		"__deferred": {
+			"uri": "Employees(4605)/Employee1"
+		}
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Employees(4605)/Orders"
+		}
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Employees(4605)/Territories"
+		}
+	}
+}, {
+	"EmployeeID": 1902,
+	"LastName": "LastName 8",
+	"FirstName": "FirstName 8",
+	"Title": "Title 8",
+	"TitleOfCourtesy": "TitleOfCourtesy 8",
+	"BirthDate": "/Date(1532352482000)/",
+	"HireDate": "/Date(1210166882000)/",
+	"Address": "Address 8",
+	"City": "City 8",
+	"Region": "Region 8",
+	"PostalCode": "PostalCode 8",
+	"Country": "Country 8",
+	"HomePhone": "HomePhone 8",
+	"Extension": "Extension 8",
+	"Photo": "00001001011111011100110110001010",
+	"Notes": "Notes 8",
+	"ReportsTo": 1902,
+	"PhotoPath": "PhotoPath 8",
+	"__metadata": {
+		"uri": "Employees(1902)",
+		"type": "NorthwindModel.Employee"
+	},
+	"Employees1": {
+		"__deferred": {
+			"uri": "Employees(1902)/Employees1"
+		}
+	},
+	"Employee1": {
+		"__deferred": {
+			"uri": "Employees(1902)/Employee1"
+		}
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Employees(1902)/Orders"
+		}
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Employees(1902)/Territories"
+		}
+	}
+}, {
+	"EmployeeID": 8419,
+	"LastName": "LastName 9",
+	"FirstName": "FirstName 9",
+	"Title": "Title 9",
+	"TitleOfCourtesy": "TitleOfCourtesy 9",
+	"BirthDate": "/Date(1539952082000)/",
+	"HireDate": "/Date(1555507682000)/",
+	"Address": "Address 9",
+	"City": "City 9",
+	"Region": "Region 9",
+	"PostalCode": "PostalCode 9",
+	"Country": "Country 9",
+	"HomePhone": "HomePhone 9",
+	"Extension": "Extension 9",
+	"Photo": "11101000100110101000011100101110",
+	"Notes": "Notes 9",
+	"ReportsTo": 8419,
+	"PhotoPath": "PhotoPath 9",
+	"__metadata": {
+		"uri": "Employees(8419)",
+		"type": "NorthwindModel.Employee"
+	},
+	"Employees1": {
+		"__deferred": {
+			"uri": "Employees(8419)/Employees1"
+		}
+	},
+	"Employee1": {
+		"__deferred": {
+			"uri": "Employees(8419)/Employee1"
+		}
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Employees(8419)/Orders"
+		}
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Employees(8419)/Territories"
+		}
+	}
+}, {
+	"EmployeeID": 1149,
+	"LastName": "LastName 10",
+	"FirstName": "FirstName 10",
+	"Title": "Title 10",
+	"TitleOfCourtesy": "TitleOfCourtesy 10",
+	"BirthDate": "/Date(1039436882000)/",
+	"HireDate": "/Date(1239370082000)/",
+	"Address": "Address 10",
+	"City": "City 10",
+	"Region": "Region 10",
+	"PostalCode": "PostalCode 10",
+	"Country": "Country 10",
+	"HomePhone": "HomePhone 10",
+	"Extension": "Extension 10",
+	"Photo": "01000011100101101100011000011010",
+	"Notes": "Notes 10",
+	"ReportsTo": 1149,
+	"PhotoPath": "PhotoPath 10",
+	"__metadata": {
+		"uri": "Employees(1149)",
+		"type": "NorthwindModel.Employee"
+	},
+	"Employees1": {
+		"__deferred": {
+			"uri": "Employees(1149)/Employees1"
+		}
+	},
+	"Employee1": {
+		"__deferred": {
+			"uri": "Employees(1149)/Employee1"
+		}
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Employees(1149)/Orders"
+		}
+	},
+	"Territories": {
+		"__deferred": {
+			"uri": "Employees(1149)/Territories"
+		}
+	}
+}]

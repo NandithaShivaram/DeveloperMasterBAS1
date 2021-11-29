@@ -1,0 +1,71 @@
+[{
+	"CategoryName": "CategoryName 1",
+	"CategorySales": 792.26,
+	"__metadata": {
+		"uri": "Category_Sales_for_1997('CategoryName%201')",
+		"type": "NorthwindModel.Category_Sales_for_1997"
+	}
+}, {
+	"CategoryName": "CategoryName 2",
+	"CategorySales": 9443.37,
+	"__metadata": {
+		"uri": "Category_Sales_for_1997('CategoryName%202')",
+		"type": "NorthwindModel.Category_Sales_for_1997"
+	}
+}, {
+	"CategoryName": "CategoryName 3",
+	"CategorySales": 1898.54,
+	"__metadata": {
+		"uri": "Category_Sales_for_1997('CategoryName%203')",
+		"type": "NorthwindModel.Category_Sales_for_1997"
+	}
+}, {
+	"CategoryName": "CategoryName 4",
+	"CategorySales": 1082.41,
+	"__metadata": {
+		"uri": "Category_Sales_for_1997('CategoryName%204')",
+		"type": "NorthwindModel.Category_Sales_for_1997"
+	}
+}, {
+	"CategoryName": "CategoryName 5",
+	"CategorySales": 6618.7,
+	"__metadata": {
+		"uri": "Category_Sales_for_1997('CategoryName%205')",
+		"type": "NorthwindModel.Category_Sales_for_1997"
+	}
+}, {
+	"CategoryName": "CategoryName 6",
+	"CategorySales": 2383.08,
+	"__metadata": {
+		"uri": "Category_Sales_for_1997('CategoryName%206')",
+		"type": "NorthwindModel.Category_Sales_for_1997"
+	}
+}, {
+	"CategoryName": "CategoryName 7",
+	"CategorySales": 8548.36,
+	"__metadata": {
+		"uri": "Category_Sales_for_1997('CategoryName%207')",
+		"type": "NorthwindModel.Category_Sales_for_1997"
+	}
+}, {
+	"CategoryName": "CategoryName 8",
+	"CategorySales": 6959.46,
+	"__metadata": {
+		"uri": "Category_Sales_for_1997('CategoryName%208')",
+		"type": "NorthwindModel.Category_Sales_for_1997"
+	}
+}, {
+	"CategoryName": "CategoryName 9",
+	"CategorySales": 251.74,
+	"__metadata": {
+		"uri": "Category_Sales_for_1997('CategoryName%209')",
+		"type": "NorthwindModel.Category_Sales_for_1997"
+	}
+}, {
+	"CategoryName": "CategoryName 10",
+	"CategorySales": 5925.62,
+	"__metadata": {
+		"uri": "Category_Sales_for_1997('CategoryName%2010')",
+		"type": "NorthwindModel.Category_Sales_for_1997"
+	}
+}]

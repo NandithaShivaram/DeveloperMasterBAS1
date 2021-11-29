@@ -1,0 +1,131 @@
+[{
+	"ShipperID": 8063,
+	"CompanyName": "CompanyName 1",
+	"Phone": "Phone 1",
+	"__metadata": {
+		"uri": "Shippers(8063)",
+		"type": "NorthwindModel.Shipper"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Shippers(8063)/Orders"
+		}
+	}
+}, {
+	"ShipperID": 8775,
+	"CompanyName": "CompanyName 2",
+	"Phone": "Phone 2",
+	"__metadata": {
+		"uri": "Shippers(8775)",
+		"type": "NorthwindModel.Shipper"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Shippers(8775)/Orders"
+		}
+	}
+}, {
+	"ShipperID": 6126,
+	"CompanyName": "CompanyName 3",
+	"Phone": "Phone 3",
+	"__metadata": {
+		"uri": "Shippers(6126)",
+		"type": "NorthwindModel.Shipper"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Shippers(6126)/Orders"
+		}
+	}
+}, {
+	"ShipperID": 2954,
+	"CompanyName": "CompanyName 4",
+	"Phone": "Phone 4",
+	"__metadata": {
+		"uri": "Shippers(2954)",
+		"type": "NorthwindModel.Shipper"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Shippers(2954)/Orders"
+		}
+	}
+}, {
+	"ShipperID": 7367,
+	"CompanyName": "CompanyName 5",
+	"Phone": "Phone 5",
+	"__metadata": {
+		"uri": "Shippers(7367)",
+		"type": "NorthwindModel.Shipper"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Shippers(7367)/Orders"
+		}
+	}
+}, {
+	"ShipperID": 5502,
+	"CompanyName": "CompanyName 6",
+	"Phone": "Phone 6",
+	"__metadata": {
+		"uri": "Shippers(5502)",
+		"type": "NorthwindModel.Shipper"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Shippers(5502)/Orders"
+		}
+	}
+}, {
+	"ShipperID": 6909,
+	"CompanyName": "CompanyName 7",
+	"Phone": "Phone 7",
+	"__metadata": {
+		"uri": "Shippers(6909)",
+		"type": "NorthwindModel.Shipper"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Shippers(6909)/Orders"
+		}
+	}
+}, {
+	"ShipperID": 4340,
+	"CompanyName": "CompanyName 8",
+	"Phone": "Phone 8",
+	"__metadata": {
+		"uri": "Shippers(4340)",
+		"type": "NorthwindModel.Shipper"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Shippers(4340)/Orders"
+		}
+	}
+}, {
+	"ShipperID": 9509,
+	"CompanyName": "CompanyName 9",
+	"Phone": "Phone 9",
+	"__metadata": {
+		"uri": "Shippers(9509)",
+		"type": "NorthwindModel.Shipper"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Shippers(9509)/Orders"
+		}
+	}
+}, {
+	"ShipperID": 4001,
+	"CompanyName": "CompanyName 10",
+	"Phone": "Phone 10",
+	"__metadata": {
+		"uri": "Shippers(4001)",
+		"type": "NorthwindModel.Shipper"
+	},
+	"Orders": {
+		"__deferred": {
+			"uri": "Shippers(4001)/Orders"
+		}
+	}
+}]

@@ -1,0 +1,141 @@
+[{
+	"CategoryID": 9,
+	"CategoryName": "CategoryName 1",
+	"Description": "Description 1",
+	"Picture": "10000000010000001001010000101101",
+	"__metadata": {
+		"uri": "Categories(9)",
+		"type": "NorthwindModel.Category"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Categories(9)/Products"
+		}
+	}
+}, {
+	"CategoryID": 416,
+	"CategoryName": "CategoryName 2",
+	"Description": "Description 2",
+	"Picture": "10001010101010000101010111001011",
+	"__metadata": {
+		"uri": "Categories(416)",
+		"type": "NorthwindModel.Category"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Categories(416)/Products"
+		}
+	}
+}, {
+	"CategoryID": 6671,
+	"CategoryName": "CategoryName 3",
+	"Description": "Description 3",
+	"Picture": "00101010110011010001101010010000",
+	"__metadata": {
+		"uri": "Categories(6671)",
+		"type": "NorthwindModel.Category"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Categories(6671)/Products"
+		}
+	}
+}, {
+	"CategoryID": 2613,
+	"CategoryName": "CategoryName 4",
+	"Description": "Description 4",
+	"Picture": "11000010111010001000101010111101",
+	"__metadata": {
+		"uri": "Categories(2613)",
+		"type": "NorthwindModel.Category"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Categories(2613)/Products"
+		}
+	}
+}, {
+	"CategoryID": 7960,
+	"CategoryName": "CategoryName 5",
+	"Description": "Description 5",
+	"Picture": "01001011110010011000100011001101",
+	"__metadata": {
+		"uri": "Categories(7960)",
+		"type": "NorthwindModel.Category"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Categories(7960)/Products"
+		}
+	}
+}, {
+	"CategoryID": 2584,
+	"CategoryName": "CategoryName 6",
+	"Description": "Description 6",
+	"Picture": "11000010001011000010110001100100",
+	"__metadata": {
+		"uri": "Categories(2584)",
+		"type": "NorthwindModel.Category"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Categories(2584)/Products"
+		}
+	}
+}, {
+	"CategoryID": 5101,
+	"CategoryName": "CategoryName 7",
+	"Description": "Description 7",
+	"Picture": "00000010100110010010010001111011",
+	"__metadata": {
+		"uri": "Categories(5101)",
+		"type": "NorthwindModel.Category"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Categories(5101)/Products"
+		}
+	}
+}, {
+	"CategoryID": 7638,
+	"CategoryName": "CategoryName 8",
+	"Description": "Description 8",
+	"Picture": "01000011100011001101111010110110",
+	"__metadata": {
+		"uri": "Categories(7638)",
+		"type": "NorthwindModel.Category"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Categories(7638)/Products"
+		}
+	}
+}, {
+	"CategoryID": 100,
+	"CategoryName": "CategoryName 9",
+	"Description": "Description 9",
+	"Picture": "10000010100101001111110000001001",
+	"__metadata": {
+		"uri": "Categories(100)",
+		"type": "NorthwindModel.Category"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Categories(100)/Products"
+		}
+	}
+}, {
+	"CategoryID": 8688,
+	"CategoryName": "CategoryName 10",
+	"Description": "Description 10",
+	"Picture": "01011110011011010101000010100111",
+	"__metadata": {
+		"uri": "Categories(8688)",
+		"type": "NorthwindModel.Category"
+	},
+	"Products": {
+		"__deferred": {
+			"uri": "Categories(8688)/Products"
+		}
+	}
+}]

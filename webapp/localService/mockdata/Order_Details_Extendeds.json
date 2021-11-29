@@ -1,0 +1,121 @@
+[{
+	"OrderID": 4638,
+	"ProductID": 905,
+	"ProductName": "ProductName 1",
+	"UnitPrice": 1313.83,
+	"Quantity": 660,
+	"Discount": 108857642.51367685,
+	"ExtendedPrice": 5030.02,
+	"__metadata": {
+		"uri": "Order_Details_Extendeds(OrderID=4638,ProductID=905,ProductName='ProductName%201',UnitPrice=1313.83,Quantity=660,Discount=108857642.51367685)",
+		"type": "NorthwindModel.Order_Details_Extended"
+	}
+}, {
+	"OrderID": 7377,
+	"ProductID": 7154,
+	"ProductName": "ProductName 2",
+	"UnitPrice": 136.61,
+	"Quantity": 518,
+	"Discount": 614481663.9968717,
+	"ExtendedPrice": 1.75,
+	"__metadata": {
+		"uri": "Order_Details_Extendeds(OrderID=7377,ProductID=7154,ProductName='ProductName%202',UnitPrice=136.61,Quantity=518,Discount=614481663.9968717)",
+		"type": "NorthwindModel.Order_Details_Extended"
+	}
+}, {
+	"OrderID": 595,
+	"ProductID": 3697,
+	"ProductName": "ProductName 3",
+	"UnitPrice": 7301.52,
+	"Quantity": 8864,
+	"Discount": 440383644.10967445,
+	"ExtendedPrice": 5314.37,
+	"__metadata": {
+		"uri": "Order_Details_Extendeds(OrderID=595,ProductID=3697,ProductName='ProductName%203',UnitPrice=7301.52,Quantity=8864,Discount=440383644.10967445)",
+		"type": "NorthwindModel.Order_Details_Extended"
+	}
+}, {
+	"OrderID": 302,
+	"ProductID": 3496,
+	"ProductName": "ProductName 4",
+	"UnitPrice": 8072.47,
+	"Quantity": 5927,
+	"Discount": 844750753.8652731,
+	"ExtendedPrice": 2525.02,
+	"__metadata": {
+		"uri": "Order_Details_Extendeds(OrderID=302,ProductID=3496,ProductName='ProductName%204',UnitPrice=8072.47,Quantity=5927,Discount=844750753.8652731)",
+		"type": "NorthwindModel.Order_Details_Extended"
+	}
+}, {
+	"OrderID": 1267,
+	"ProductID": 6578,
+	"ProductName": "ProductName 5",
+	"UnitPrice": 9818.01,
+	"Quantity": 5437,
+	"Discount": 527163839.1826788,
+	"ExtendedPrice": 9547.61,
+	"__metadata": {
+		"uri": "Order_Details_Extendeds(OrderID=1267,ProductID=6578,ProductName='ProductName%205',UnitPrice=9818.01,Quantity=5437,Discount=527163839.1826788)",
+		"type": "NorthwindModel.Order_Details_Extended"
+	}
+}, {
+	"OrderID": 3558,
+	"ProductID": 9557,
+	"ProductName": "ProductName 6",
+	"UnitPrice": 9812.9,
+	"Quantity": 761,
+	"Discount": 509070890.42181575,
+	"ExtendedPrice": 4927.14,
+	"__metadata": {
+		"uri": "Order_Details_Extendeds(OrderID=3558,ProductID=9557,ProductName='ProductName%206',UnitPrice=9812.9,Quantity=761,Discount=509070890.42181575)",
+		"type": "NorthwindModel.Order_Details_Extended"
+	}
+}, {
+	"OrderID": 6372,
+	"ProductID": 413,
+	"ProductName": "ProductName 7",
+	"UnitPrice": 5601.48,
+	"Quantity": 8451,
+	"Discount": 928705042.336407,
+	"ExtendedPrice": 733.2,
+	"__metadata": {
+		"uri": "Order_Details_Extendeds(OrderID=6372,ProductID=413,ProductName='ProductName%207',UnitPrice=5601.48,Quantity=8451,Discount=928705042.336407)",
+		"type": "NorthwindModel.Order_Details_Extended"
+	}
+}, {
+	"OrderID": 3644,
+	"ProductID": 8902,
+	"ProductName": "ProductName 8",
+	"UnitPrice": 5692.5,
+	"Quantity": 644,
+	"Discount": 746901737.1171054,
+	"ExtendedPrice": 572.29,
+	"__metadata": {
+		"uri": "Order_Details_Extendeds(OrderID=3644,ProductID=8902,ProductName='ProductName%208',UnitPrice=5692.5,Quantity=644,Discount=746901737.1171054)",
+		"type": "NorthwindModel.Order_Details_Extended"
+	}
+}, {
+	"OrderID": 8208,
+	"ProductID": 5076,
+	"ProductName": "ProductName 9",
+	"UnitPrice": 1869.18,
+	"Quantity": 836,
+	"Discount": 849191816.9012849,
+	"ExtendedPrice": 2893.69,
+	"__metadata": {
+		"uri": "Order_Details_Extendeds(OrderID=8208,ProductID=5076,ProductName='ProductName%209',UnitPrice=1869.18,Quantity=836,Discount=849191816.9012849)",
+		"type": "NorthwindModel.Order_Details_Extended"
+	}
+}, {
+	"OrderID": 2626,
+	"ProductID": 8474,
+	"ProductName": "ProductName 10",
+	"UnitPrice": 4516.28,
+	"Quantity": 9916,
+	"Discount": 269542471.88231146,
+	"ExtendedPrice": 2498.76,
+	"__metadata": {
+		"uri": "Order_Details_Extendeds(OrderID=2626,ProductID=8474,ProductName='ProductName%2010',UnitPrice=4516.28,Quantity=9916,Discount=269542471.88231146)",
+		"type": "NorthwindModel.Order_Details_Extended"
+	}
+}]
